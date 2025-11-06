@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Shang.
+## 👋 Hi.
 
 💻 **Full-Stack & AI & Automation & Chrome extension Developer** | JavaScript | Python | React | Next.js | Laravel | AWS  
 
