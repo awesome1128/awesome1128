@@ -73,9 +73,7 @@
 
 ## 📫 Let’s Connect  
 
-✉️ Email: jetcochain@gmail.com  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/fuelbooster)  
-[![Discord](https://img.shields.io/discord/1381685917017702430)](https://discord.gg/GPPQeNdJcz)
+✉️ Email: jetcochain@gmail.com
 
 
 ---
