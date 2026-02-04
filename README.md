@@ -1,12 +1,16 @@
 ## 👋 Hi.
 
-💻 **Full-Stack & AI & Automation & Chrome extension Developer** | JavaScript | Python | React | Next.js | Laravel | AWS  
+💻 **Mobile, Desktop Game & Full-Stack & AI & Automation & Chrome extension Developer** | JavaScript | Python | React | Next.js | Laravel | AWS  
 
 🔹 I specialize in building **scalable web & mobile applications** that combine automation, performance, and great user experience.  
+🔹 Mobile and Desktop Game Development.
 🔹 Experienced in delivering solutions for **finance, healthcare, and e-commerce industries**.  
 🔹 Passionate about **AI, full-stack development, and problem-solving**.  
 
 ---
+
+## Game Development
+http://game.c2reality.site/
 
 ## 🛠️ Tech Stack  
 
